@@ -2,18 +2,18 @@
 
 ## Pergunta central
 
-Quais referências ajudam a construir uma palestra introdutória, didática e responsável sobre uso de IA e criação de prompts para um público não especialista?
+Quais referências ajudam a construir uma palestra sólida, responsável e bem fundamentada sobre uso de IA e criação de prompts?
 
-## Recorte de público
+## Relação com o público-alvo
 
-Nesta etapa, o público de referência é:
+A apresentação final será voltada para:
 - alunos do ensino médio;
 - provavelmente de escolas particulares.
 
 Consequências práticas para a pesquisa:
 - priorizar exemplos escolares, vestibular, ENEM, redação, estudos e organização;
 - evitar referências que partam de ambiente corporativo ou universitário como padrão;
-- valorizar materiais que expliquem IA com linguagem clara e cotidiana.
+- preparar insumos que depois possam ser adaptados para linguagem e profundidade adequadas.
 
 ## Eixos de pesquisa
 
@@ -23,7 +23,7 @@ Buscar materiais que expliquem com clareza:
 - o que é IA;
 - o que é IA generativa;
 - como modelos generativos respondem a prompts;
-- diferença entre explicar de forma técnica e de forma didática.
+- quais simplificações didáticas são possíveis sem distorcer o conteúdo.
 
 ### 2. Boas práticas de prompts
 
@@ -65,22 +65,21 @@ Buscar materiais sobre:
 
 Priorizar:
 - fontes institucionais e materiais educacionais confiáveis;
-- textos de fácil tradução didática para slide e fala;
+- materiais que sustentem afirmações com segurança e permitam boa tradução didática depois;
 - exemplos reaproveitáveis na palestra;
 - conteúdo atual o suficiente para não ficar defasado;
-- material que ajude a sustentar afirmações com segurança.
+- diversidade de fontes entre documentação oficial, material educacional e referências analíticas.
 
 Evitar:
 - textos opinativos sem base;
 - conteúdo promocional travestido de referência;
-- materiais excessivamente técnicos para o objetivo da palestra;
 - afirmações fortes sem fonte verificável.
 
 ## Perguntas que a pesquisa deve responder
 
 - Como explicar IA generativa sem cair em tecnicismo?
 - Como demonstrar que prompts melhores geram respostas melhores?
-- Quais exemplos do cotidiano escolar fazem mais sentido para esse público?
+- Quais exemplos podem ser melhor adaptados ao cotidiano escolar desse público?
 - Quais erros reais da IA podem ser mostrados de forma responsável?
 - Como falar de ética sem transformar a palestra em sermão?
 

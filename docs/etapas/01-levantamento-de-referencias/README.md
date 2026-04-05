@@ -8,22 +8,24 @@ Responsável principal:
 ## Objetivo da etapa
 
 Levantar referências confiáveis para sustentar o conteúdo da palestra, com foco em:
-- introdução acessível à IA e IA generativa;
+- fundamentos de IA e IA generativa;
 - usabilidade no uso de ferramentas de IA;
 - criação de prompts melhores;
 - riscos, limitações e responsabilidade no uso;
-- exemplos práticos adequados ao público.
+- exemplos práticos que possam ser adaptados ao público.
 
-## Público considerado nesta etapa
+## Relação com o público-alvo
 
-A pesquisa deve assumir como público principal:
+A apresentação final será voltada para:
 - alunos do ensino médio;
 - provavelmente de escolas particulares.
 
-Isso implica:
-- linguagem mais acessível;
-- exemplos mais próximos de rotina escolar;
-- cuidado extra para não pressupor repertório técnico.
+Na Etapa 01, isso afeta principalmente:
+- a seleção de exemplos que possam ser traduzidos para contexto escolar;
+- a busca de casos de uso relevantes para estudo, organização e aprendizagem;
+- a preparação de insumos para adaptação didática na etapa seguinte.
+
+Não significa que as fontes precisem, elas próprias, estar escritas em linguagem simples para esse público.
 
 ## Documentos desta pasta
 
