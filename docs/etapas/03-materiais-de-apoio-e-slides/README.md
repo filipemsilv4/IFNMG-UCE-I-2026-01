@@ -10,4 +10,4 @@ Exemplos do que deve entrar aqui:
 
 ## Dependência principal
 
-Esta etapa depende da consolidação de [Etapa 02 - Roteiro e Conteúdo](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/etapas/02-roteiro-e-conteudo/README.md).
+Esta etapa depende da consolidação de [Etapa 02 - Roteiro e Conteúdo](../02-roteiro-e-conteudo/README.md).

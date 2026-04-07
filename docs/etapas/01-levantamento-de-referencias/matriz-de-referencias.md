@@ -5,7 +5,7 @@ Esta matriz foi reorganizada para seguir a estrutura planejada da palestra.
 Princípios desta versão:
 - `ID` é o primeiro campo e representa `bloco.subtema` da apresentação;
 - cada linha responde a uma necessidade concreta do roteiro;
-- a análise `fonte por fonte` continua em [curadoria-de-fontes-para-a-palestra.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/etapas/01-levantamento-de-referencias/curadoria-de-fontes-para-a-palestra.md);
+- a análise `fonte por fonte` continua em [curadoria-de-fontes-para-a-palestra.md](curadoria-de-fontes-para-a-palestra.md);
 - a matriz abaixo existe para evitar sensação de escopo infinito e mostrar exatamente o que cada bloco da palestra precisa.
 
 ## 0. Base do Projeto
@@ -86,4 +86,4 @@ Princípios desta versão:
 
 ## Escala de confiabilidade das fontes
 
-A avaliação detalhada de confiabilidade e ressalvas está em [curadoria-de-fontes-para-a-palestra.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/etapas/01-levantamento-de-referencias/curadoria-de-fontes-para-a-palestra.md).
+A avaliação detalhada de confiabilidade e ressalvas está em [curadoria-de-fontes-para-a-palestra.md](curadoria-de-fontes-para-a-palestra.md).

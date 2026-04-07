@@ -111,4 +111,4 @@ Características registradas:
 - O título do tema no escopo é mais longo do que o tema atualmente adotado pela equipe.
 - Há nomes e papéis que podem precisar de normalização entre documento oficial e uso interno do grupo.
 
-Essas divergências foram registradas em [decisoes-e-pendencias.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/99-registros/decisoes-e-pendencias.md).
+Essas divergências foram registradas em [decisoes-e-pendencias.md](../99-registros/decisoes-e-pendencias.md).

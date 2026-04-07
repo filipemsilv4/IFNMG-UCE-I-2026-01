@@ -57,4 +57,4 @@ Consolidação do cronograma que apareceu no material de escopo.
 
 ## Uso deste documento
 
-Este arquivo serve como visão executiva. O detalhamento da primeira frente de trabalho está em [docs/etapas/01-levantamento-de-referencias/README.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/etapas/01-levantamento-de-referencias/README.md).
+Este arquivo serve como visão executiva. O detalhamento da primeira frente de trabalho está em [docs/etapas/01-levantamento-de-referencias/README.md](../etapas/01-levantamento-de-referencias/README.md).

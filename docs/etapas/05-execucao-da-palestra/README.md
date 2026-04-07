@@ -12,4 +12,4 @@ Exemplos do que deve entrar aqui:
 
 ## Referência de planejamento
 
-Papéis e cronograma-base estão em [docs/02-planejamento/cronograma-e-entregas.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/02-planejamento/cronograma-e-entregas.md).
+Papéis e cronograma-base estão em [docs/02-planejamento/cronograma-e-entregas.md](../../02-planejamento/cronograma-e-entregas.md).

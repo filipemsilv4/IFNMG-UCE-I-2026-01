@@ -4,8 +4,8 @@ Esta pasta consolida o que já existe sobre a disciplina e sobre o projeto, conv
 
 ## Documentos
 
-- [disciplina-uce-e-curso.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/01-contexto/disciplina-uce-e-curso.md): resumo institucional da UCE no curso de Computação.
-- [escopo-do-projeto.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/01-contexto/escopo-do-projeto.md): consolidação do HTML de escopo recebido.
+- [disciplina-uce-e-curso.md](disciplina-uce-e-curso.md): resumo institucional da UCE no curso de Computação.
+- [escopo-do-projeto.md](escopo-do-projeto.md): consolidação do HTML de escopo recebido.
 
 ## Materiais recebidos
 
