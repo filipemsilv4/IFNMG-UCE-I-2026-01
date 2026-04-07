@@ -22,13 +22,6 @@ Há diferença entre:
 Impacto:
 - afeta consistência de documentos e relatórios.
 
-### 3. Ementa da UCE I
-
-O arquivo `Ementa - UCE-I.pdf` foi recebido, mas não teve texto extraído localmente com qualidade nesta rodada.
-
-Impacto:
-- pode haver requisitos adicionais da disciplina ainda não refletidos nos arquivos do repo.
-
 ## Decisões já assumidas neste repositório
 
 - O repositório vai priorizar documentos em Markdown.
