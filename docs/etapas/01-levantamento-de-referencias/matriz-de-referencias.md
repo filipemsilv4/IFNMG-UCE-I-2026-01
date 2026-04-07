@@ -20,7 +20,7 @@ Princípios desta versão:
 | ID | Bloco da palestra | Subtema | Fontes centrais | Fontes de apoio | Status | Observações |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1.1 | IA sempre esteve aqui | A própria definição de IA sempre foi debatida | Turing (1950) - Computing Machinery and Intelligence; Dartmouth Proposal (1955) | Curadoria histórica da abertura | Cobertura forte | Bom para mostrar que a pergunta sobre IA é antiga e conceitualmente instável |
-| 1.2 | IA sempre esteve aqui | IA impressionava muito antes dos LLMs | IBM Research - Deep Blue; Nature - AlphaGo | Roteiro inicial | Cobertura forte | Ajuda a quebrar a ideia de que IA pré-ChatGPT era “boba” |
+| 1.2 | IA sempre esteve aqui | IA impressionava muito antes dos LLMs | IBM Research - Deep Blue; Nature - AlphaGo | [Roteiro inicial](../02-roteiro-e-conteudo/roteiro-inicial-da-palestra.md) | Cobertura forte | Ajuda a quebrar a ideia de que IA pré-ChatGPT era “boba” |
 | 1.3 | IA sempre esteve aqui | IA já impactava saúde e cuidado antes do hype atual | JAMA 2016 - diabetic retinopathy; FDA - IDx-DR; WHO - TB screening guidance | WHO 2025 - CAD for TB; curadoria da abertura | Cobertura forte | Muito melhor para repertório e sensibilidade humana do que exemplos de infraestrutura |
 | 1.4 | IA sempre esteve aqui | IA como ferramenta de descoberta científica | DeepMind - AlphaFold: Five Years of Impact | Curadoria da abertura | Cobertura forte | Ótimo bloco de fascínio científico e repertório sobre ciência e inovação |
 
