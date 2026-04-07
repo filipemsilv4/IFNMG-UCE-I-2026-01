@@ -3,16 +3,17 @@
 ## Estrutura atual informada
 
 - Gerente: Julia
-- Pesquisa e levantamento de referências: Paulo
-- Criação de material de apoio: Paulo e Emanuel
-- Divulgação: Tayná, Ana Kelly e Bernardo
+- Pesquisa e levantamento de referências: Paulo Filipe
+- Criação de material de apoio: Paulo Filipe e Emanuel
+- Divulgação: Tayná, Ana Kelly e Bernardo Pinho
 - Preparação do ambiente: Samir e Ana Caroline
-- Realização da palestra: Bernardo e João
+- Realização da palestra: Bernardo Pinho e João Araujo
 - Feedback: Samir
 - Relatório final: Julia
 
 ## Time
 
+- Julia (gerente)
 - Ana Kelly
 - Tayná
 - Bernardo Pinho

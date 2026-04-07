@@ -5,10 +5,8 @@ Repositório de organização da UCE I do curso de Ciência da Computação do I
 Tema do projeto:
 `Projeto I.A (dicas de usabilidade e prompts)`
 
-Gerente:
-`Julia`
-
-Equipe:
+Time do projeto:
+- Julia (gerente)
 - Ana Kelly
 - Tayná
 - Bernardo Pinho

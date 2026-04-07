@@ -44,6 +44,8 @@ Curadoria feita considerando:
 - [4o Returns](https://4oreturns.com/)
 - [TechRadar - #keep4o campaign](https://www.techradar.com/ai-platforms-assistants/chatgpt/im-grieving-openai-has-switched-off-chatgpt-4o-and-angry-users-are-backing-a-keep4o-campaign-to-restore-it)
 
+<a id="pacote-abertura"></a>
+
 ## Pacote enxuto para a abertura
 
 Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de leitura, eu usaria este pacote:
@@ -60,6 +62,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 
 ## Mini reviews por fonte
 
+<a id="src-ibm-generative-ai"></a>
+
 ### IBM - O que é a IA generativa?
 
 - Tipo: artigo explicativo corporativo
@@ -73,6 +77,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - puxa para negócio e não resolve educação, aprendizado ou saúde mental.
 - Melhor uso:
   - definição introdutória de IA generativa.
+
+<a id="src-prompt-engineering-guide-reasoning-llms"></a>
 
 ### Prompt Engineering Guide - Reasoning LLMs
 
@@ -88,6 +94,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - contraste entre prompting clássico e prompting atual.
 
+<a id="src-ai-fluency-overview"></a>
+
 ### Anthropic - AI Fluency: Frameworks and Foundations
 
 - Tipo: framework educacional
@@ -101,6 +109,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - organiza competências, mas não prova cada afirmação sobre uso de IA.
 - Melhor uso:
   - justificar a arquitetura dos 4 Ds na palestra.
+
+<a id="src-ai-fluency-cheat-sheet"></a>
 
 ### Anthropic - AI Fluency: Key Terminology Cheat Sheet
 
@@ -117,6 +127,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - refinar o escopo de cada D internamente.
 
+<a id="src-turing-1950"></a>
+
 ### Turing (1950) - Computing Machinery and Intelligence
 
 - Tipo: paper clássico
@@ -129,6 +141,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - é histórico-conceitual, não fonte para explicar GenAI moderna.
 - Melhor uso:
   - abrir a palestra com profundidade e contexto histórico.
+
+<a id="src-dartmouth-1955"></a>
 
 ### Dartmouth Proposal (1955)
 
@@ -143,6 +157,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - linha do tempo curta do campo.
 
+<a id="src-deep-blue"></a>
+
 ### IBM Research - Deep Blue
 
 - Tipo: paper / registro técnico
@@ -156,6 +172,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - mostrar que IA impressionava muito antes de chatbots.
 
+<a id="src-alphago"></a>
+
 ### Nature - AlphaGo
 
 - Tipo: paper
@@ -168,6 +186,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - é sistema especializado, não inteligência geral.
 - Melhor uso:
   - marco pré-hype em jogos e estratégia.
+
+<a id="src-diabetic-retinopathy"></a>
 
 ### JAMA 2016 + FDA 2018 - Retinopatia diabética
 
@@ -185,6 +205,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - trazer sensibilidade humana e valor de repertório.
 
+<a id="src-tb-screening"></a>
+
 ### WHO 2021/2025 - IA no rastreamento de tuberculose
 
 - Tipo: diretriz e atualização institucional
@@ -201,6 +223,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - repertório humanitário e de saúde coletiva.
 
+<a id="src-alphafold"></a>
+
 ### Google DeepMind - AlphaFold: Five Years of Impact
 
 - Tipo: post institucional de pesquisa
@@ -215,6 +239,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - mostrar IA como ciência e descoberta, não só automação textual.
 
+<a id="src-openai-reasoning-best-practices"></a>
+
 ### OpenAI - Reasoning best practices
 
 - Tipo: documentação oficial
@@ -228,6 +254,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - atualizar a seção de prompts para 2026.
 
+<a id="src-unesco-guidance"></a>
+
 ### UNESCO - Guidance for generative AI in education and research
 
 - Tipo: guia institucional
@@ -240,6 +268,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - ética, privacidade, integridade acadêmica e papel do ser humano.
 
+<a id="src-deng-2025"></a>
+
 ### Deng et al. - Does ChatGPT enhance student learning?
 
 - Tipo: meta-análise em periódico
@@ -251,6 +281,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - limitações metodológicas e poucos dados de longo prazo.
 - Melhor uso:
   - equilibrar a palestra contra alarmismo exagerado.
+
+<a id="src-bastani-2024"></a>
 
 ### Bastani et al. - Generative AI Can Harm Learning
 
@@ -265,6 +297,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - responder à pergunta `aprendi ou só copiei?`.
 
+<a id="src-nber-2026"></a>
+
 ### NBER - Does Generative AI Narrow Education-Based Productivity Gaps?
 
 - Tipo: working paper NBER
@@ -276,6 +310,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - não é estudo com adolescentes em escola.
 - Melhor uso:
   - nuance entre ampliação de capacidade e substituição de habilidade.
+
+<a id="src-lost-in-the-middle"></a>
 
 ### Lost in the Middle: How Language Models Use Long Contexts
 
@@ -289,6 +325,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - mostrar que organização de contexto ainda importa.
 
+<a id="src-gemini-long-context"></a>
+
 ### Google Gemini API - Long context
 
 - Tipo: documentação oficial
@@ -300,6 +338,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - é documentação de produto, não benchmark independente.
 - Melhor uso:
   - contrabalançar `Lost in the Middle` sem dizer que o problema sumiu.
+
+<a id="src-anthropic-tracing-thoughts"></a>
 
 ### Anthropic - Tracing the thoughts of a large language model
 
@@ -313,6 +353,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - dar nuance conceitual à equipe e à fala.
 
+<a id="src-anthropic-emotion-concepts"></a>
+
 ### Anthropic - Emotion concepts and their function in a large language model
 
 - Tipo: research post
@@ -324,6 +366,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - é pesquisa de fronteira e pode ser mal interpretada.
 - Melhor uso:
   - apoiar a parte de vínculo e apego emocional.
+
+<a id="src-microsoft-critical-thinking"></a>
 
 ### Microsoft Research - The Impact of Generative AI on Critical Thinking
 
@@ -337,6 +381,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - base de apoio para discernment e diligence.
 
+<a id="src-nature-emotional-risks"></a>
+
 ### Nature Machine Intelligence - Emotional risks of AI companions demand attention
 
 - Tipo: editorial científico
@@ -348,6 +394,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - é editorial, não estudo causal.
 - Melhor uso:
   - abrir a seção de saúde mental sem sensacionalismo.
+
+<a id="src-common-sense-ai-companions"></a>
 
 ### Common Sense Media - Nearly 3 in 4 Teens Have Used AI Companions
 
@@ -361,6 +409,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - mostrar que companion AI já entrou de verdade no universo juvenil.
 
+<a id="src-openai-sensitive-conversations"></a>
+
 ### OpenAI - Strengthening ChatGPT’s responses in sensitive conversations
 
 - Tipo: post institucional
@@ -373,6 +423,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
 - Melhor uso:
   - sustentar que IA não deve substituir apoio humano real.
 
+<a id="src-openai-sycophancy"></a>
+
 ### OpenAI - Expanding on what we missed with sycophancy
 
 - Tipo: post institucional
@@ -384,6 +436,8 @@ Se a gente quiser fortalecer só o começo da palestra sem explodir a carga de l
   - trata de uma falha específica, não de teoria geral.
 - Melhor uso:
   - caso curto para mostrar por que guardrails importam.
+
+<a id="case-keep4o"></a>
 
 ## Pacote de caso: #keep4o
 

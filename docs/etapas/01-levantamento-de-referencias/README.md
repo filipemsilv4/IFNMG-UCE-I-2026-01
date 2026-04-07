@@ -25,7 +25,7 @@ Na Etapa 01, isso afeta principalmente:
 - a busca de casos de uso relevantes para estudo, organização e aprendizagem;
 - a preparação de insumos para adaptação didática na etapa seguinte.
 
-Não significa que as fontes precisem, elas próprias, estar escritas em linguagem simples para esse público.
+Isso não significa que as fontes precisem estar escritas em linguagem simples para esse público.
 
 ## Documentos desta pasta
 
