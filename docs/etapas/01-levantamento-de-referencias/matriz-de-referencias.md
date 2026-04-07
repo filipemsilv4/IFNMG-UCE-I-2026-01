@@ -62,7 +62,7 @@ Princípios desta versão:
 | ID | Bloco da palestra | Subtema | Fontes centrais | Fontes de apoio | Status | Observações |
 | --- | --- | --- | --- | --- | --- | --- |
 | 3.6 | Diligence | Ética, integridade acadêmica e papel do usuário | UNESCO Guidance | Microsoft Research - Critical Thinking | Cobertura forte | Base principal para plágio, responsabilidade e agência humana |
-| 3.7 | Diligence | Privacidade, dados pessoais e uso responsável | UNESCO Guidance | Escopo do projeto | Cobertura suficiente | Ainda cabe adicionar uma fonte mais prática sobre dados pessoais se sentirmos necessidade |
+| 3.7 | Diligence | Privacidade, dados pessoais e uso responsável | UNESCO Guidance | [Escopo do projeto](../../01-contexto/escopo-do-projeto.md) | Cobertura suficiente | Ainda cabe adicionar uma fonte mais prática sobre dados pessoais se sentirmos necessidade |
 | 3.8 | Diligence | Saúde mental, apego emocional e companion AI | Nature editorial; Common Sense Media; OpenAI - Sensitive conversations | OpenAI - Sycophancy; Caso #keep4o | Cobertura forte | O `#keep4o` deve entrar apenas como caso ilustrativo, não como base científica central |
 
 ## 4. O que a IA nunca vai ter
