@@ -12,8 +12,8 @@ Princípios desta versão:
 
 | ID | Bloco da palestra | Subtema | Fontes centrais | Fontes de apoio | Status | Observações |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0.1 | Base institucional | Contexto da UCE e critérios do projeto | `INT-01` UCE no curso de Ciência da Computação; `INT-02` Escopo do projeto | `INT-03` Roteiro inicial | Consolidado | Serve para alinhar o projeto com a disciplina, não para virar slide da palestra |
-| 0.2 | Base narrativa | Estrutura preliminar da apresentação | `INT-03` Conteúdos da palestra | `INT-02` Escopo do projeto | Consolidado | Base interna para organizar a curadoria por bloco |
+| 0.1 | Base institucional | Contexto da UCE e critérios do projeto | [INT-01](../../01-contexto/disciplina-uce-e-curso.md) UCE no curso de Ciência da Computação; [INT-02](../../01-contexto/escopo-do-projeto.md) Escopo do projeto | [INT-03](../02-roteiro-e-conteudo/roteiro-inicial-da-palestra.md) Roteiro inicial | Consolidado | Serve para alinhar o projeto com a disciplina, não para virar slide da palestra |
+| 0.2 | Base narrativa | Estrutura preliminar da apresentação | [INT-03](../02-roteiro-e-conteudo/roteiro-inicial-da-palestra.md) Conteúdos da palestra | [INT-02](../../01-contexto/escopo-do-projeto.md) Escopo do projeto | Consolidado | Base interna para organizar a curadoria por bloco |
 
 ## 1. IA sempre esteve aqui
 
