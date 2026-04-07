@@ -24,9 +24,34 @@ Isso sugere:
 Duração estimada: `5 min`
 
 Ideias centrais:
-- mostrar que IA já está presente antes do hype recente;
-- usar exemplos cotidianos como Netflix, Google Maps e TikTok;
-- criar sensação de descoberta antes da definição formal.
+- mostrar que IA já existia muito antes do hype recente;
+- começar com a ideia de que a própria definição de IA sempre foi debatida;
+- usar uma linha do tempo curta para quebrar a impressão de que IA nasceu com o ChatGPT;
+- combinar exemplos cotidianos com exemplos realmente impressionantes de impacto científico e técnico;
+- criar fascínio intelectual antes da definição formal.
+
+Sugestão de narrativa:
+- `1950`: Turing já reformulava a pergunta `máquinas podem pensar?` porque a definição literal era escorregadia;
+- `1955/1956`: a proposta de Dartmouth ajudou a consolidar o campo e o próprio nome `artificial intelligence`;
+- `1997`: Deep Blue derrota Kasparov no xadrez;
+- `2016`: AlphaGo derrota campeão profissional em Go;
+- `2016/2018`: IA mostra desempenho forte em triagem de retinopatia diabética e chega a virar dispositivo autorizado pela FDA para apoio clínico em atenção primária;
+- `2021/2025`: OMS passa a recomendar e depois ampliar o uso de software com IA para rastreamento de tuberculose em raio-X de tórax;
+- `2020 em diante`: AlphaFold acelera descoberta científica em biologia em escala global.
+
+Exemplos fortes para esse bloco:
+- recomendação e personalização em plataformas;
+- tradução automática, reconhecimento de imagem e voz;
+- triagem de retinopatia diabética para prevenir perda de visão;
+- rastreamento de tuberculose com apoio de IA em saúde pública;
+- AlphaGo;
+- AlphaFold e biologia estrutural.
+
+Tom sugerido:
+- este bloco é uma boa oportunidade para reduzir resistência anti-IA;
+- a mensagem não precisa ser `IA é sempre boa`, e sim `IA é mais antiga, mais ampla e mais fascinante do que o hype recente faz parecer`;
+- vale destacar que, antes de virar tema de meme ou cola escolar, IA já ajudava em diagnóstico, rastreamento e pesquisa biomédica;
+- vale explorar a beleza da ideia de usar matemática, estatística e computação em silício para construir sistemas capazes de otimizar, prever, jogar, traduzir e apoiar descoberta científica.
 
 ### 2. O que é IA generativa
 
@@ -41,6 +66,9 @@ Ideias centrais:
 ### 3. Os 4 Ds do uso inteligente
 
 Duração estimada: `24 a 25 min`
+
+Referência conceitual:
+- esta organização em `Delegation`, `Description`, `Discernment` e `Diligence` vem do curso `AI Fluency` da Anthropic, baseado no `AI Fluency Framework` de Rick Dakan e Joseph Feller.
 
 #### Description
 

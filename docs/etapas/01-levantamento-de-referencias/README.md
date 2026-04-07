@@ -31,6 +31,7 @@ Não significa que as fontes precisem, elas próprias, estar escritas em linguag
 
 - [plano-de-pesquisa.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/etapas/01-levantamento-de-referencias/plano-de-pesquisa.md): estratégia da pesquisa.
 - [matriz-de-referencias.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/etapas/01-levantamento-de-referencias/matriz-de-referencias.md): tabela de registro e curadoria de referências.
+- [curadoria-de-fontes-para-a-palestra.md](/Users/filipc/Developer/GitHub/IFNMG-UCE-I-2026-01/docs/etapas/01-levantamento-de-referencias/curadoria-de-fontes-para-a-palestra.md): shortlist comentada com mini reviews, relevância atual e ressalvas.
 
 ## Resultado esperado desta etapa
 
