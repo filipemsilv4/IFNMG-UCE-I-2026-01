@@ -58,7 +58,9 @@ docs/
 
 ## Wiki do projeto
 
-O repositório também está preparado para publicação como wiki navegável com `MkDocs + Material`, usando os próprios arquivos de `docs/` como fonte de verdade.
+A wiki navegável do projeto está publicada em: **https://filipemsilv4.github.io/IFNMG-UCE-I-2026-01/**
+
+Ela é gerada com `MkDocs + mkdocs-shadcn` a partir dos próprios arquivos de `docs/`.
 
 Os arquivos de configuração e manutenção dessa publicação estão em:
 - [mkdocs.yml](mkdocs.yml)

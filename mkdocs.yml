@@ -1,34 +1,12 @@
 site_name: IFNMG UCE I 2026.1
 site_description: Wiki do projeto da UCE I sobre IA, prompts e uso responsável.
-site_url: http://paulofilipe.com/IFNMG-UCE-I-2026-01/
+site_url: https://filipemsilv4.github.io/IFNMG-UCE-I-2026-01/
 repo_url: https://github.com/filipemsilv4/IFNMG-UCE-I-2026-01
 repo_name: filipemsilv4/IFNMG-UCE-I-2026-01
 edit_uri: edit/main/docs/
 
 theme:
-  name: material
-  language: pt-BR
-  features:
-    - navigation.instant
-    - navigation.sections
-    - navigation.top
-    - search.highlight
-    - search.suggest
-    - content.action.edit
-    - content.code.copy
-  palette:
-    - scheme: default
-      primary: teal
-      accent: amber
-      toggle:
-        icon: material/brightness-7
-        name: Mudar para tema escuro
-    - scheme: slate
-      primary: teal
-      accent: amber
-      toggle:
-        icon: material/brightness-4
-        name: Mudar para tema claro
+  name: shadcn
 
 markdown_extensions:
   - admonition

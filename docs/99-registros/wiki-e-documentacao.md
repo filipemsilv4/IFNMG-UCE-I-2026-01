@@ -14,7 +14,7 @@ Isso significa:
 ## Stack adotada
 
 - `MkDocs`
-- `Material for MkDocs`
+- `mkdocs-shadcn`
 - `GitHub Pages`
 - GitHub Actions para build e deploy
 
@@ -30,7 +30,7 @@ Isso significa:
 1. Edite os arquivos dentro de `docs/`.
 2. Se a estrutura da wiki mudar, atualize também `mkdocs.yml`.
 3. Rode um build local antes de abrir PR quando mexer em navegação ou links.
-4. Faça o deploy via branch principal.
+4. O deploy acontece automaticamente via GitHub Actions ao fazer merge para `main`.
 
 ## Build local
 
@@ -61,10 +61,12 @@ mkdocs build --strict
 ## Convenções
 
 - priorizar links relativos entre documentos do próprio repositório;
-- nunca usar caminhos absolutos do filesystem;
+- nunca usar caminhos absolutos do filesystem local;
 - evitar duplicar texto entre múltiplos arquivos quando um link resolve o problema;
 - manter nomes e seções coerentes entre repo e wiki;
 - preferir atualizações no conteúdo original em vez de criar páginas-resumo redundantes.
+
+> Arquivos fora de `docs/` (como `mkdocs.yml` e `requirements-docs.txt`) não são navegáveis pela wiki, então os links para eles apontam diretamente para o GitHub.
 
 ## Quando atualizar a navegação
 

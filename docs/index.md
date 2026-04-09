@@ -1,48 +1,28 @@
-# Wiki do Projeto
+# IFNMG UCE I 2026.1
 
-Esta documentação transforma o repositório da UCE I em uma base de consulta navegável, mantendo o próprio repo como fonte de verdade.
+Wiki de acompanhamento do projeto de palestra sobre IA e prompts — UCE I, Ciência da Computação, IFNMG.
 
-## O que você encontra aqui
+O repositório continua sendo a fonte principal. Esta wiki é uma camada de navegação sobre os mesmos arquivos de `docs/`.
 
-- contexto institucional da disciplina e do projeto;
-- planejamento, equipe e cronograma;
-- etapas de trabalho com foco em execução real;
-- pesquisa, curadoria de referências e roteiro da palestra;
-- registros de decisões, pendências e convenções.
+## Por onde começar
 
-## Melhor ponto de entrada
-
-Se você estiver chegando agora, a ordem mais útil costuma ser:
+Se você está chegando agora:
 
 1. [Contexto do projeto](01-contexto/README.md)
 2. [Planejamento e cronograma](02-planejamento/README.md)
 3. [Visão geral das etapas](etapas/README.md)
 4. [Etapa 01: levantamento de referências](etapas/01-levantamento-de-referencias/README.md)
-5. [Registros de decisões e pendências](99-registros/decisoes-e-pendencias.md)
+5. [Decisões e pendências abertas](99-registros/decisoes-e-pendencias.md)
 
-## Estrutura da wiki
+## O que tem aqui
 
-### Contexto
+- **Contexto** — disciplina, curso e material de base do projeto.
+- **Planejamento** — equipe, responsabilidades e cronograma.
+- **Etapas** — trabalho organizado por frentes, da pesquisa ao encerramento.
+- **Registros** — decisões, pendências e convenções da documentação.
 
-Base institucional e consolidação do material que deu origem ao projeto.
+## Para colaboradores
 
-### Planejamento
-
-Define time, responsabilidades, cronograma e organização macro da execução.
-
-### Etapas
-
-Organiza o trabalho por frentes explícitas, da pesquisa ao encerramento.
-
-### Registros
-
-Mantém memória operacional, decisões e convenções da documentação.
-
-## Como manter esta documentação
-
-- priorize arquivos `.md` no repositório;
-- edite o conteúdo original em `docs/`;
-- evite duplicar material entre README, wiki e documentos internos;
-- trate o site publicado como camada de navegação, não como fonte separada.
-
-O guia operacional da wiki está em [Manutenção da wiki](99-registros/wiki-e-documentacao.md).
+- Edite sempre em `docs/` no repositório, não diretamente pela wiki.
+- Se mudar a estrutura de pastas ou adicionar documentos, atualize também `mkdocs.yml`.
+- Para contribuir com a wiki em si, veja [Manutenção da wiki](99-registros/wiki-e-documentacao.md).
