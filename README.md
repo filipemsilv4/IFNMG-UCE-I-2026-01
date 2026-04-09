@@ -55,3 +55,15 @@ docs/
 - Evitar depender de arquivos soltos fora do repositório para decisões do projeto.
 - Transformar material bruto em documentos sintéticos, rastreáveis e fáceis de revisar.
 - Registrar ambiguidades e inconsistências em vez de deixá-las implícitas.
+
+## Wiki do projeto
+
+A wiki navegável do projeto está publicada em: **https://filipemsilv4.github.io/IFNMG-UCE-I-2026-01/**
+
+Ela é gerada com `MkDocs + mkdocs-shadcn` a partir dos próprios arquivos de `docs/`.
+
+Os arquivos de configuração e manutenção dessa publicação estão em:
+- [mkdocs.yml](mkdocs.yml)
+- [requirements-docs.txt](requirements-docs.txt)
+- [.github/workflows/docs.yml](.github/workflows/docs.yml)
+- [docs/99-registros/wiki-e-documentacao.md](docs/99-registros/wiki-e-documentacao.md)
