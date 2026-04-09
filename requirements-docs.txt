@@ -1,2 +1,2 @@
 mkdocs==1.6.1
-mkdocs-shadcn==0.10.3
+mkdocs-shadcn @ git+https://github.com/filipemsilv4/mkdocs-shadcn.git@de433d6
