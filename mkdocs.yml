@@ -1,0 +1,80 @@
+site_name: IFNMG UCE I 2026.1
+site_description: Wiki do projeto da UCE I sobre IA, prompts e uso responsável.
+site_url: http://paulofilipe.com/IFNMG-UCE-I-2026-01/
+repo_url: https://github.com/filipemsilv4/IFNMG-UCE-I-2026-01
+repo_name: filipemsilv4/IFNMG-UCE-I-2026-01
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para tema escuro
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para tema claro
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+
+nav:
+  - Início: index.md
+  - Contexto:
+      - Visão geral: 01-contexto/README.md
+      - Disciplina, UCE e curso: 01-contexto/disciplina-uce-e-curso.md
+      - Escopo do projeto: 01-contexto/escopo-do-projeto.md
+  - Planejamento:
+      - Visão geral: 02-planejamento/README.md
+      - Equipe e responsabilidades: 02-planejamento/equipe-e-responsabilidades.md
+      - Cronograma e entregas: 02-planejamento/cronograma-e-entregas.md
+  - Etapas:
+      - Visão geral: etapas/README.md
+      - Etapa 01 - Levantamento de referências:
+          - Visão geral: etapas/01-levantamento-de-referencias/README.md
+          - Plano de pesquisa: etapas/01-levantamento-de-referencias/plano-de-pesquisa.md
+          - Matriz de referências: etapas/01-levantamento-de-referencias/matriz-de-referencias.md
+          - Curadoria de fontes: etapas/01-levantamento-de-referencias/curadoria-de-fontes-para-a-palestra.md
+      - Etapa 02 - Roteiro e conteúdo:
+          - Visão geral: etapas/02-roteiro-e-conteudo/README.md
+          - Roteiro inicial da palestra: etapas/02-roteiro-e-conteudo/roteiro-inicial-da-palestra.md
+      - Etapa 03 - Materiais de apoio e slides: etapas/03-materiais-de-apoio-e-slides/README.md
+      - Etapa 04 - Divulgação e inscrições: etapas/04-divulgacao-e-inscricoes/README.md
+      - Etapa 05 - Execução da palestra: etapas/05-execucao-da-palestra/README.md
+      - Etapa 06 - Encerramento e relatório: etapas/06-encerramento-e-relatorio/README.md
+  - Registros:
+      - Decisões e pendências: 99-registros/decisoes-e-pendencias.md
+      - Manutenção da wiki: 99-registros/wiki-e-documentacao.md

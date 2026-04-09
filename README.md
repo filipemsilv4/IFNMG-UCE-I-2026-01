@@ -55,3 +55,13 @@ docs/
 - Evitar depender de arquivos soltos fora do repositório para decisões do projeto.
 - Transformar material bruto em documentos sintéticos, rastreáveis e fáceis de revisar.
 - Registrar ambiguidades e inconsistências em vez de deixá-las implícitas.
+
+## Wiki do projeto
+
+O repositório também está preparado para publicação como wiki navegável com `MkDocs + Material`, usando os próprios arquivos de `docs/` como fonte de verdade.
+
+Os arquivos de configuração e manutenção dessa publicação estão em:
+- [mkdocs.yml](mkdocs.yml)
+- [requirements-docs.txt](requirements-docs.txt)
+- [.github/workflows/docs.yml](.github/workflows/docs.yml)
+- [docs/99-registros/wiki-e-documentacao.md](docs/99-registros/wiki-e-documentacao.md)
