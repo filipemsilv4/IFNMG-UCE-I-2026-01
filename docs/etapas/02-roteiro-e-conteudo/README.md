@@ -4,11 +4,14 @@ Esta etapa transforma a pesquisa em narrativa, sequência de tópicos e estrutur
 
 ## Documentos
 
+- [roteiro-final-e-indicacoes-de-slide.md](roteiro-final-e-indicacoes-de-slide.md)
 - [roteiro-inicial-da-palestra.md](roteiro-inicial-da-palestra.md)
 
 ## Observação
 
-O roteiro abaixo é uma consolidação do material recebido. Ele ainda deve ser refinado após a etapa de pesquisa.
+O roteiro final, as indicações de slide e as marcações de dinâmica estão consolidados em [roteiro-final-e-indicacoes-de-slide.md](roteiro-final-e-indicacoes-de-slide.md).
+
+O roteiro inicial permanece registrado como histórico de construção do conteúdo.
 
 ## Dependência principal
 
